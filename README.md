@@ -37,6 +37,6 @@
 </p>
 
 <div align="center">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=xhy1999&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=highcontrast">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhy1999&layout=compact&theme=dracula" />
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=xhy1999&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=buefy">
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhy1999&layout=compact&theme=buefy" />
 <div>
