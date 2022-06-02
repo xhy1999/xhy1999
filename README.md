@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm xhy1999 or crazy-man.
+    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"> I'm xhy1999 or crazy-man.
 </h1>
 
 **About me**
