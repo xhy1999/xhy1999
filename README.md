@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm xhy1999 or crazy-man.
+    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"> I'm xhy1999 or crazy-man.
 </h1>
 
 **About me**
@@ -37,6 +37,6 @@
 </p>
 
 <div align="center">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=xhy1999&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=buefy">
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=xhy1999&show_icons=true&include_all_commits=true&count_private=true&theme=buefy">
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhy1999&layout=compact&theme=buefy" />
 <div>
